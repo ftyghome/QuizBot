@@ -1,0 +1,14 @@
+F:\Documents\QuizBot\QuizBot\QuizBot\bin\Debug\QuizBot.exe
+F:\Documents\QuizBot\QuizBot\QuizBot\bin\Debug\QuizBot.pdb
+F:\Documents\QuizBot\QuizBot\QuizBot\bin\Debug\QuizBot.xml
+F:\Documents\QuizBot\QuizBot\QuizBot\obj\Debug\QuizBot.vbprojAssemblyReference.cache
+F:\Documents\QuizBot\QuizBot\QuizBot\obj\Debug\QuizBot.Form1.resources
+F:\Documents\QuizBot\QuizBot\QuizBot\obj\Debug\QuizBot.Form2.resources
+F:\Documents\QuizBot\QuizBot\QuizBot\obj\Debug\QuizBot.Form3.resources
+F:\Documents\QuizBot\QuizBot\QuizBot\obj\Debug\QuizBot.Resources.resources
+F:\Documents\QuizBot\QuizBot\QuizBot\obj\Debug\QuizBot.vbproj.GenerateResource.cache
+F:\Documents\QuizBot\QuizBot\QuizBot\obj\Debug\QuizBot.vbproj.CoreCompileInputs.cache
+F:\Documents\QuizBot\QuizBot\QuizBot\obj\Debug\QuizBot.exe
+F:\Documents\QuizBot\QuizBot\QuizBot\obj\Debug\QuizBot.xml
+F:\Documents\QuizBot\QuizBot\QuizBot\obj\Debug\QuizBot.pdb
+F:\Documents\QuizBot\QuizBot\QuizBot\obj\Debug\QuizBot.Form4.resources
